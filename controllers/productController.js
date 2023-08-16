@@ -1,6 +1,6 @@
 import slugify from "slugify";
 import productModel from "../models/productModel.js";
-import CategoryModel from "../models/CategoryModel.js";
+import CategoryModel from "../models/categoryModel.js";
 import fs from "fs";
 import braintree from "braintree";
 import orderModel from "../models/orderModel.js";
